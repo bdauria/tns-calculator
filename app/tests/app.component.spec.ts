@@ -4,7 +4,6 @@ import {it, describe, expect, beforeEach, beforeEachProviders, inject} from '@an
 beforeEachProviders(() => [AppComponent]);
 
 describe('App: Angular2Calculator', () => {
-  describe('append')
   it('adds element to operation',
       inject([AppComponent], (app: AppComponent) => {
     expect(app).toBeTruthy();
