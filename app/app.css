@@ -1,0 +1,17 @@
+﻿button, label, stack-layout {
+  horizontal-align: center;    
+}
+
+label {
+  font-size: 36;
+}
+
+label.result {
+  font-size: 42;
+  horizontal-align: left;
+}
+
+button {
+  font-size: 36;
+  width: 100%;
+}

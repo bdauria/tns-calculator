@@ -1,0 +1,65 @@
+{
+  "name": "nativescript-liveedit",
+  "version": "2.1.1",
+  "description": "A LiveEdit/LiveSync NativeScript module for Android v2.1.1 Runtimes",
+  "main": "liveedit.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.1.1"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanaela/nativescript-liveedit.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "LiveSync",
+    "LiveEdit",
+    "Development",
+    "Testing",
+    "Android"
+  ],
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/nathanaela/nativescript-liveedit/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-liveedit/issues"
+  },
+  "homepage": "https://github.com/nathanaela/nativescript-liveedit",
+  "scripts": {
+    "postinstall": "node support/postinstall.js"
+  },
+  "gitHead": "6d2d65f54a699105a061d474683d3a22c5ccab3d",
+  "_id": "nativescript-liveedit@2.1.1",
+  "_shasum": "46a272dab878bc61acd30af1e36ee8317bed1ca7",
+  "_from": "nativescript-liveedit@latest",
+  "_npmVersion": "3.7.4",
+  "_nodeVersion": "4.3.1",
+  "_npmUser": {
+    "name": "nathanaela",
+    "email": "nathan@master-technology.com"
+  },
+  "dist": {
+    "shasum": "46a272dab878bc61acd30af1e36ee8317bed1ca7",
+    "tarball": "https://registry.npmjs.org/nativescript-liveedit/-/nativescript-liveedit-2.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nathanaela",
+      "email": "nathan@master-technology.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-liveedit-2.1.1.tgz_1469581776752_0.8875847854651511"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-liveedit/-/nativescript-liveedit-2.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
